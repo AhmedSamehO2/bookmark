@@ -1,0 +1,32 @@
+.brder
+{
+    width: 80%;
+    height: 1px;
+    background-color:gray;
+    margin-top: 35px;
+    
+    
+}
+h2
+{
+    color: gray;
+}
+
+.member
+{
+   
+    background-color: #EEE;
+  
+    
+}
+.member h4
+{
+    margin-bottom: 50px;
+}
+.train
+{
+   justify-content: space-between;
+   padding: 20px;
+   background-color: #EEE;
+   margin-top: 25px;
+}
